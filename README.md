@@ -1,4 +1,4 @@
-This ia an inestment website built wuth html, css and javascript
+This ia an investment website built wuth html, css and javascript
 I built it in testing my knowledge in html, css and js.
 The website is static and it's made up of three  sections.
 The header, which comparise of input box, profile picture toggle light and dark theme. it is also  responsive and menu bar when  in mobile screen.
